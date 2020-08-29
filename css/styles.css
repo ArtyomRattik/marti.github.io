@@ -1,8 +1,8 @@
 body {
+  background-image: url('marti.github.io/img/steam.jpg');
   background-repeat: no-repeat;
-  background-attachment: fixed; 
+  background-attachment: fixed;
   background-size: 100% 100%;
-  background-image:url('img/bg.jpg');
 }
 h1 {
   font-family: verdana;
@@ -28,7 +28,7 @@ ul {
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
-	background-color: #333333;
+	background-color: black;
 }
 li {
 	float: left;
