@@ -1,9 +1,9 @@
 body {
-  background-image: url('marti.github.io/img/steam.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
-}
+ background-repeat: no-repeat;
+ background-attachment: fixed; 
+ background-size: 100% 100%;
+ background-image:url('marti.github.io/img/bg.jpg');
+ }
 h1 {
   font-family: verdana;
   color: blue;
@@ -35,18 +35,11 @@ li {
 }
 li a {
 	display: block;
-	color: black;
+	color: yellow;
 	text-align: center;
 	padding: 16px;
 	text-decoration: none;
 }
 li a:hover {
 	background-color: #111111;
-}
-.shit {
-		background-color: black;
-		color: yellow;
-		border: 2px solid yellow;
-		margin: 15px;
-		padding: 15px;
 }
