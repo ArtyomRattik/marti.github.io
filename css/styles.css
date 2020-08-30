@@ -9,12 +9,12 @@ body {
 	font-family: verdana;
 	color:yellow;
 }
-         ul {
-	 list-style-type: none;
-	 margin: 300;
-	 padding: 300;
-	 overflow: hidden;
-	 background-color: black;
+ul {
+	list-style-type: none;
+        margin: 300;
+	padding: 300;
+	overflow: hidden;
+	background-color: black;
 }
 li {
 	float: left;
