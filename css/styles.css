@@ -7,6 +7,7 @@ body {
 .fonts {
 	font-family: verdana;
 	color:yellow;
+	font-size:40px;
 }
 ul {
 	list-style-type: none;
