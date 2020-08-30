@@ -4,42 +4,7 @@ body {
  background-size: 100% 100%;
  background-image:url('marti.github.io/img/bg.jpg');
  }
-h1 {
-  font-family: verdana;
-  color: blue;
-}
-p  {
-  color:yellow;
- }
-table, th, td {
-	border: 1px solid black;
-	border-collapse: collapse;
-}
-th, td {
-	text-align: center;
-	padding: 15px;
-}
-#t01 {
-	width: 100%;
-	background-color: black;
-}
-ul {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-	overflow: hidden;
-	background-color: black;
-}
-li {
-	float: left;
-}
-li a {
-	display: block;
-	color: yellow;
-	text-align: center;
-	padding: 16px;
-	text-decoration: none;
-}
-li a:hover {
-	background-color: #111111;
+<style>
+.fonts {
+	font-family: verdana;
 }
