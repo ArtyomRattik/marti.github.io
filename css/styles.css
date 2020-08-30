@@ -8,3 +8,28 @@ body {
 .fonts {
 	font-family: verdana;
 }
+          ul {
+	  list-style-type: none;
+	  margin: 300;
+	  padding: 300;
+	  overflow: hidden;
+	  background-color: black;
+	}
+
+	li {
+	  float: left;
+	}
+
+	li a {
+	  display: block;
+	  color: yellow;
+	  text-align: center;
+	  padding: 16px;
+	  text-decoration: none;
+	}
+
+	li a:hover {
+	  background-color: yellow;
+	  color: black;
+	}
+</style>
