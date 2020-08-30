@@ -2,7 +2,7 @@ body {
  background-repeat: no-repeat;
  background-attachment: fixed; 
  background-size: 100% 100%;
- background-image:url('https://github.com/ArtyomRattik/marti.github.io/blob/master/img/bg.jpg');
+ background-image:url('https://github.com/ArtyomRattik/marti.github.io/blob/master/img/bg.jpg?raw=true');
  }
 .fonts {
 	font-family: verdana;
