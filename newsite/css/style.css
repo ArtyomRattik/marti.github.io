@@ -1,0 +1,14 @@
+.starter-template {
+	padding-top: 50x;
+}
+/* Базовые настройки */
+body {
+	background-color: black;
+	color: #f3f312;
+}
+footer {
+	text-align: center;
+	padding: 3px;
+	background-color: #f3f312;
+	color: black;
+}
